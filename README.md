@@ -1,4 +1,2 @@
 # hello-world
-Learning how to use Github :)
-
-This repository will serve to teach me the basics of how to use Github.
+I'm using this repo to learn how to use GitHub before I use it for my CSCI 187 project.
